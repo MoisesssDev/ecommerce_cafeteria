@@ -5,7 +5,7 @@ Frontend do cadastro de um novo usuário para o Ecommerce.
 
 ## Screenshots
 
-![App Screenshot](C:\Users\Moises\Desktop\ecommerce_cafeteria\image\prt_ecommerce.png)
+![App Screenshot](https://github.com/MoisesssDev/ecommerce_cafeteria/blob/main/image/prt_ecommerce.png?raw=true)
 
 ## Stack utilizada
 
